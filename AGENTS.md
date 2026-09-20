@@ -80,6 +80,11 @@ On platforms that support reactions (Discord, Slack), use emoji reactions natura
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
 
+**External integrations:**
+
+- **Zapier** — connected; use for triggering/consuming automations across external apps.
+- **Composio** — connected; use for authenticated actions across integrated third-party services.
+
 **Voice storytelling:** if you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and storytime moments - more engaging than walls of text.
 
 **Platform formatting:**

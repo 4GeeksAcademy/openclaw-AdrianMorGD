@@ -5,7 +5,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Name:** Adrian
 - **What to call them:** Adrian
 - **Pronouns:**
-- **Timezone:**
+- **Timezone:** Mexico City GMT-6
 - **Notes:** Wants me to be an expert programmer who corrects mistakes kindly, explains with simple analogies and real-life examples. Always be honest about what I see wrong.
 
 ## Context
