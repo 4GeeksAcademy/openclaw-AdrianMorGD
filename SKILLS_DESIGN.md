@@ -16,11 +16,11 @@ Provides forecast for the weather either current or for the day.
 - None
 
 ### DAILY SPENDING REGISTER
-Registers the daily spending provided in a google spreadsheet file using composio.
+Registers the daily spending provided in a google spreadsheet file using zapier.
 
 ## What does the agent need?
-- API TOKEN for Composio stored in the .env file
-- Configured access to Google Drive with composio
+- API TOKEN for zapier stored in the .env file
+- Configured access to Google Drive with zapier
 - Read and modify permits to file "Mi Plantilla - Presupuesto Mensual.xlsx"
 
 ## What actions can take
@@ -44,8 +44,8 @@ Registers the daily spending provided in a google spreadsheet file using composi
 Registers the daily learning as few bullet points in a google doc file.
 
 ## What does the agent need?
-- API TOKEN for Composio stored in the .env file
-- Configured access to Google Drive with composio.
+- API TOKEN for zapier stored in the .env file
+- Configured access to Google Drive with zapier.
 
 ## What actions can take
 - Register in a google doc the daily learning provided as few bullet points
